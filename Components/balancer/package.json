@@ -1,0 +1,9 @@
+
+{
+	"name": "balancer",
+	"main": "config/default.js",
+	"dependencies": {
+		"zmq" : "*",
+	    "config": "*"
+	}
+}

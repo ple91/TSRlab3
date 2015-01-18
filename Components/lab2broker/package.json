@@ -1,0 +1,9 @@
+
+{
+	"name": "broker",
+	"main": "config/default.js",
+	"dependencies": {
+		"zmq" : "*",
+	    "config": "*"
+	}
+}
